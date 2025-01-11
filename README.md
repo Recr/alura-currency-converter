@@ -7,5 +7,6 @@ Instructions:
 1. Install and configure Java in the 17 version or higher.
 2. Install an IDE of choice (IntelliJ recommended).
 3. Download and import the Gson library (.jar format or by a dependency manager like Maven).
-4. Get and API key from [Exchange Rate API](https://www.exchangerate-api.com//) and replace in the URI.
-5. Run the application.
+4. Get and API key from [Exchange Rate API](https://www.exchangerate-api.com//).
+5. Create a file named .env and copy the API key into it.
+6. Run the application.
