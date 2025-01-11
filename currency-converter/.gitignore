@@ -32,4 +32,4 @@ bin/
 .env
 
 ### .jar import ###
-.iml
+*.iml
